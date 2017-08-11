@@ -1,0 +1,6 @@
+{
+    "/dist/vendor.js": "/dist/vendor.js",
+    "/dist/shared.worker.js": "/dist/shared.worker.js",
+    "/dist/app.js": "/dist/app.js",
+    "/dist/manifest.js": "/dist/manifest.js"
+}
